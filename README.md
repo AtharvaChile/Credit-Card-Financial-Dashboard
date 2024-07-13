@@ -24,6 +24,7 @@ The Credit Card Financial Dashboard is designed to offer a detailed analysis of 
 #### Overall Financial Summary:
 -Total revenue, transaction amount, interest earned, and transaction count.
 
+
 ### Customer Report Highlights
 
 #### Revenue by Income Group:
