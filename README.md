@@ -11,7 +11,8 @@ The Credit Card Financial Dashboard is designed to offer a detailed analysis of 
 ### Transaction Report Highlights
 
 *Quarterly Revenue and Transaction Count:
--Visualizes revenue and transaction counts across Q1, Q2, Q3, and Q4.
+
+-Visualizes revenue and transaction counts across Q1, Q2, Q3, and Q4.\n
 -Breakdown of revenue and transactions by different expenditure types (Bills, Entertainment, Fuel, Grocery, Food, Travel).
 
 *Revenue by Customer Demographics:
